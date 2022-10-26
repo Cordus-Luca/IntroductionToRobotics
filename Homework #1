@@ -5,4 +5,48 @@ Technical Task:Use a separat potentiometer in controlling each of the
   with digital electronics(aka you must read the value of the potentiome-ter 
   with Arduino, and write a mapped value to each of the pins connectedto the led.
   
+  CODE:
   
+  
+const int redLedPin = 11;
+const int greenLedPin = 10;
+const int blueLedPin = 9;
+
+const int redAnalogInPin = A0;
+const int greenAnalogInPin = A1;
+const int blueAnalogInPin = A2;
+
+int redAnalogInValue = 0;
+int greenAnalogInValue = 0;
+int blueAnalogInValue = 0;
+
+int redBrightness = 0;
+int greenBrightness = 0;
+int blueBrightness = 0;
+
+const int maxAnalogInput = 1023;
+const int maxAnalogOutput = 255;
+const int minAnalogInput, minAnalogOutput = 0;
+const int baudRate = 9600;
+
+void setup() {
+  pinMode(redLedPin, OUTPUT);
+  pinMode(greenLedPin, OUTPUT);
+  pinMode(blueLedPin, OUTPUT);
+  Serial.begin(baudRate);
+}
+
+void loop() {
+
+  redAnalogInValue = analogRead(redAnalogInPin);
+  greenAnalogInValue = analogRead(greenAnalogInPin);
+  blueAnalogInValue = analogRead(blueAnalogInPin);
+
+  redBrightness = map(redAnalogInValue, minAnalogInput, maxAnalogInput, minAnalogOutput, maxAnalogOutput); 
+  greenBrightness = map(greenAnalogInValue, minAnalogInput, maxAnalogInput, minAnalogOutput, maxAnalogOutput);
+  blueBrightness = map(blueAnalogInValue, minAnalogInput, maxAnalogInput, minAnalogOutput, maxAnalogOutput);
+  
+  analogWrite(redLedPin, redBrightness);
+  analogWrite(greenLedPin, greenBrightness);
+  analogWrite(blueLedPin, blueBrightness);
+}
