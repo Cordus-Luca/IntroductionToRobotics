@@ -19,4 +19,8 @@ Link video:
 
 Link Homework file: 
 
-Tehnical Task: 
+Components: 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
+
+Tehnical Task: Building the traffic lights for a crosswalk. You
+will use 2 LEDs to represent the traffic lights for people (red and green)
+and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
