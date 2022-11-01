@@ -15,9 +15,9 @@ Technical Task: Use a separate potentiometer in controlling each of the
   
 # Homework 2
 
-Link video:
+Link video: https://youtu.be/1UfcVi_ifZUhttps://youtu.be/1UfcVi_ifZU
 
-Link Homework file: 
+Link Homework file: https://github.com/Cordus-Luca/IntroductionToRobotics/tree/main/Homework%202
 
 Components: 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
 
