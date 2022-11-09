@@ -29,7 +29,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
 
 Link video: https://youtu.be/0tT6Se-uhdc
 
-Link homework file: 
+Link homework file: https://github.com/Cordus-Luca/IntroductionToRobotics/tree/main/Homework%203
 
 Components: 1 7-segment display, 1 joystick, resistors and wires (per logic)
 
