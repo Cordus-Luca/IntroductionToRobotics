@@ -24,3 +24,16 @@ Components: 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
 Tehnical Task: Building the traffic lights for a crosswalk. You
 will use 2 LEDs to represent the traffic lights for people (red and green)
 and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
+
+# Homework 3
+
+Link video:
+
+Link homework file: 
+
+Components: 1 7-segment display, 1 joystick, resistors and wires (per logic)
+
+Tehnical Task: ou will use the joystick to control the position of
+the segment and ”draw” on the display. The movement between segments
+should be natural (meaning they should jump from the current position
+only to neighbors, but without passing through ”walls”.
