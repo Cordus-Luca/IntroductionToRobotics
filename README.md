@@ -27,7 +27,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
 
 # Homework 3
 
-Link video:
+Link video: https://youtu.be/0tT6Se-uhdc
 
 Link homework file: 
 
