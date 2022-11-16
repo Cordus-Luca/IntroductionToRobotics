@@ -42,7 +42,7 @@ only to neighbors, but without passing through ”walls”.
 
 Link video:
 
-Link homework: 
+Link homework file: https://github.com/Cordus-Luca/IntroductionToRobotics/tree/main/Homework%204
 
 Tehnical Task: Use the joystick to move through the 4 digit 7
 segment displays digits, press the button to lock in on the current digit
