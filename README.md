@@ -33,7 +33,19 @@ Link homework file: https://github.com/Cordus-Luca/IntroductionToRobotics/tree/m
 
 Components: 1 7-segment display, 1 joystick, resistors and wires (per logic)
 
-Tehnical Task: ou will use the joystick to control the position of
+Tehnical Task: You will use the joystick to control the position of
 the segment and ”draw” on the display. The movement between segments
 should be natural (meaning they should jump from the current position
 only to neighbors, but without passing through ”walls”.
+
+# Homework 4
+
+Link video:
+
+Link homework: 
+
+Tehnical Task: Use the joystick to move through the 4 digit 7
+segment displays digits, press the button to lock in on the current digit
+and use the other axis to increment or decrement the number. Keep the
+button pressed to reset all the digit values and the current position to the
+first digit in the first state.
