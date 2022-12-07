@@ -49,3 +49,13 @@ segment displays digits, press the button to lock in on the current digit
 and use the other axis to increment or decrement the number. Keep the
 button pressed to reset all the digit values and the current position to the
 first digit in the first state.
+
+# Homework 5
+
+Link video: https://www.youtube.com/watch?v=pVYuPcJV7JE
+
+Link homework file: 
+
+Link Task:
+
+Used components: 16 X 2 LCD, 8 X 8 Led matrix display, Shift register, Potentiometer, Joystick, Buzzer
