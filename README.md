@@ -56,6 +56,6 @@ Link video: https://www.youtube.com/watch?v=pVYuPcJV7JE
 
 Link homework file: 
 
-Link Task:
+Link Task: https://github.com/Cordus-Luca/IntroductionToRobotics/blob/main/Homework%205/Matrix%20project%20requirements.pdf
 
 Used components: 16 X 2 LCD, 8 X 8 Led matrix display, Shift register, Potentiometer, Joystick, Buzzer
