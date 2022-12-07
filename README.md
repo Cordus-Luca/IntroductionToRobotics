@@ -54,7 +54,7 @@ first digit in the first state.
 
 Link video: https://www.youtube.com/watch?v=pVYuPcJV7JE
 
-Link homework file: 
+Link homework file: https://github.com/Cordus-Luca/IntroductionToRobotics/tree/main/Homework%205
 
 Link Task: https://github.com/Cordus-Luca/IntroductionToRobotics/blob/main/Homework%205/Matrix%20project%20requirements.pdf
 
